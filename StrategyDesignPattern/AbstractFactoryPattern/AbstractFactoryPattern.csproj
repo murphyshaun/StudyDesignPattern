@@ -43,6 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractFactory\AbstractAnimalFactory.cs" />
+    <Compile Include="AbstractFactory\FourLegsAnimalFactory.cs" />
+    <Compile Include="AbstractFactory\TwoLegsAnimalFactory.cs" />
+    <Compile Include="Factory\BasicAnimalFactory.cs" />
+    <Compile Include="Factory\IAnimalFactory.cs" />
+    <Compile Include="Factory\RandomAnimalFactory.cs" />
+    <Compile Include="Model\Cat.cs" />
+    <Compile Include="Model\Chicken.cs" />
+    <Compile Include="Model\Dog.cs" />
+    <Compile Include="Model\Duck.cs" />
+    <Compile Include="Model\FourLegsAnimal.cs" />
+    <Compile Include="Model\IAnimal.cs" />
+    <Compile Include="Model\TwoLegsAnimal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
