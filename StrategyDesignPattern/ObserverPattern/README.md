@@ -9,3 +9,8 @@
 - Đừng sợ tạo ra Observable của riêng bạn nếu cần.
 - Swing sử dụng rất nhiều Observer Pattern, cũng như nhiều GUI framework.
 - Bạn cũng tìm thấy mẫu này ở nhiều nơi khác, bao gồm JavaBeans và RMI.
+
+=============
+- một event được push các đối tượng nhận được sẽ có những hành động khác nhau
+- khai báo hành động của các đối tượng để thực hiện
+- giống như đèn giao thông: có người đi thẳng, có người rẽ , ...
