@@ -52,5 +52,6 @@ Book1: [Book limited GoF](https://drive.google.com/file/d/12Yh0XQU9mLgi-kyJQGbAT
 
 ## TÀI LIỆU THAM KHẢO
 https://toihocdesignpattern.com/
-![image](https://github.com/murphyshaun/StudyDesignPattern/assets/80742830/734a43ec-89c3-480b-a17c-ab8720459e92)
+
+![image](https://github.com/murphyshaun/StudyDesignPattern/assets/80742830/ce4849d5-5aa1-49b7-a08c-e22a6a8bfe6c)
 
