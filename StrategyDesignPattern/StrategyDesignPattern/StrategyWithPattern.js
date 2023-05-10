@@ -18,3 +18,14 @@ function promotionPrice(orinialPrice) {
 function defaultPrice(originalPrice) {
   return orinialPrice;
 }
+
+// thay vì dùng if else ta nên sử dụng object
+const getPriceStrategies = {
+  preOrder: preOrderPrice,
+  promotion: promotionPrice,
+  default: defaultPrice
+}
+
+function getPrice(originalPrice, typePromotion) {
+  return getPriceStrategies[typePromotion](originalPrice)
+}
