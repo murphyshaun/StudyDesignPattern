@@ -11,6 +11,7 @@
 - Bạn cũng tìm thấy mẫu này ở nhiều nơi khác, bao gồm JavaBeans và RMI.
 
 =============
+- ai cần event thì đăng ký nhận không thì thôi -> observer pattern (chuông thông báo của youtube)
 - một event được push các đối tượng nhận được sẽ có những hành động khác nhau
 - khai báo hành động của các đối tượng để thực hiện
 - giống như đèn giao thông: có người đi thẳng, có người rẽ , ...
