@@ -15,3 +15,5 @@
 
 ## TÀI LIỆU THAM KHẢO
 https://toihocdesignpattern.com/
+![image](https://github.com/murphyshaun/StudyDesignPattern/assets/80742830/734a43ec-89c3-480b-a17c-ab8720459e92)
+
